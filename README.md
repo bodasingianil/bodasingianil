@@ -1,71 +1,164 @@
-                                      # Hi, I'm Anil Kumar Bodasingi
+# Hi 👋, I'm Anil Kumar
 
-## RPA Developer | Python Automation Engineer | AI Workflow Builder
+### RPA Developer | Python Automation Developer | GenAI & AI Automation Learner
 
-I am an automation and software professional with 7+ years of experience across robotic process automation, Python development, production support, and technical leadership.
+I'm an automation-focused developer with experience across **Python, RPA, web development, databases, and enterprise application support**, currently expanding my expertise into **Generative AI and Agentic AI systems**.
 
-I currently work as an RPA Developer at ICE, building Automation Anywhere 360 bots with Python integrations and database-backed workflows. My current learning and development focus is on Python automation, Selenium, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG).
+I enjoy building practical automation solutions and exploring how **LLMs, RAG, agents, and workflow orchestration** can be integrated with traditional automation.
 
-## What I Work On
+---
 
-- Python automation and browser automation with Selenium
-- RPA solutions using Automation Anywhere 360 and UiPath
-- LLM applications and agentic workflows with LangChain and LangGraph
-- Retrieval-Augmented Generation (RAG) systems
-- Python and Django web applications and REST APIs
-- Database-backed automation with MySQL and Oracle
-- Docker-based development and deployment
-- Computer vision and human-computer interaction with OpenCV and MediaPipe
+## 🚀 What I'm Working On
 
-## Technical Skills
+* 🐍 **Python Automation**
+* 🌐 **Selenium Automation**
+* 🤖 **RPA – Automation Anywhere 360**
+* 🦜 **LangChain**
+* 🕸️ **LangGraph**
+* 📚 **Retrieval-Augmented Generation (RAG)**
+* 🧠 **Generative AI & Agentic AI**
+* 🔗 **AI + Automation integrations**
+* 🗄️ **Database-driven automation**
+* 🛠️ Building hands-on AI and automation projects
 
-| Area | Technologies |
-| --- | --- |
-| Languages | Python, C#, SQL |
-| AI and LLM | RAG, LangChain, LangGraph, agentic systems |
-| Automation | Automation Anywhere 360, UiPath, Selenium, Python automation |
-| Web Development | Django, Django REST Framework, HTML, CSS, Bootstrap |
-| Databases | MySQL, Oracle, stored procedures |
-| DevOps and Cloud | Docker, AWS, Azure fundamentals, IIS |
-| Computer Vision | OpenCV, MediaPipe |
-| Support and Delivery | Production support, incident management, client communication, team leadership |
+---
 
-## Professional Experience
+## 🧑‍💻 Technical Skills
 
-- **RPA Developer, ICE** - Hyderabad, India | September 2022 - Present
-	- Develop Automation Anywhere 360 bots with Python integrations.
-	- Design database models and automate business workflows.
-- **Application Lead and Senior Developer, IBM** - Hyderabad, India | 2016 - 2023
-	- Delivered Python, Django, REST API, database, Docker, and RPA solutions.
-	- Led technical delivery and supported critical production applications.
-- **Onsite Coordinator, Thames Water** - Reading and London, United Kingdom | 2016 - 2020
-	- Coordinated client-facing application support and worked with distributed teams.
-	- Managed stakeholder communication, service delivery, and technical requirements.
-- **Project Engineer, Wipro** - Hyderabad, India | 2016
-	- Worked on application development, production support, Oracle, C#, .NET, K2.net, BizTalk, ServiceNow, and Remedy.
+### Programming & Automation
 
-## Selected Experience Highlights
+* Python
+* Selenium
+* RPA
+* Automation Anywhere 360
+* Python-based automation
 
-- Built a computer-vision HCI solution using OpenCV and MediaPipe to control mouse actions through facial pose estimation and eye blinks.
-- Automated recurring manual tasks with RPA, reducing daily manual effort by up to three hours.
-- Worked with international stakeholders and supported teams across onsite and offshore environments.
-- Developed RESTful APIs with Django REST Framework and worked with Oracle and MySQL databases.
+### Generative AI
 
-## Education and Certifications
+* LangChain
+* LangGraph
+* RAG
+* LLM Applications
+* AI Agents
+* Agentic AI
+* Prompt Engineering
 
-- **M.Tech, Computer Software Engineering** - Birla Institute of Technology and Science, Pilani
-- **BASc, Computer Science** - Andhra University
-- Python Basic
-- Building and Deploying RAG and Agentic Systems
-- Microsoft Azure Fundamentals (AZ-900)
-- SQL Intermediate
-- Introduction to Programming Using Python
+### Web & Backend
 
-## Connect
+* Django
+* Django REST Framework
+* REST APIs
+* HTML
+* CSS
+* Bootstrap
 
-- [LinkedIn](https://www.linkedin.com/in/bkumar88)
-- Email: uma.awall77@gmail.com
+### Databases
 
-## Currently Learning
+* MySQL
+* Oracle
+* SQL
+* Stored Procedures
 
-I am deepening my work in LLM-powered automation, RAG pipelines, agentic systems, and practical integrations between AI workflows, Python, RPA, and enterprise applications.
+### Other Technologies
+
+* Docker
+* OpenCV
+* MediaPipe
+* AWS
+* Linux
+* Windows
+
+### Enterprise Tools
+
+* ServiceNow
+* Remedy
+* K2.NET
+* BizTalk Administration
+
+---
+
+## 📂 Featured Learning & Projects
+
+I'm continuously building hands-on projects while learning **Generative AI, RAG, LangChain, LangGraph and AI Agents**.
+
+Some areas covered in my projects include:
+
+* Simple LLM applications
+* Blood Report Analysis
+* Vector Databases
+* RAG applications
+* AI Agents
+* Agent memory
+* Multimodal AI
+* Guardrails
+* AI Shopping Assistant
+* Telecom RAG Assistant
+* Python automation projects
+
+👉 Check out my repositories to explore the implementations.
+
+---
+
+## 💼 Professional Experience
+
+I have experience working across **software development, production support, RPA, application management and technical leadership**.
+
+My professional background includes:
+
+* Python & Django development
+* RPA automation
+* Enterprise application support
+* REST API development
+* Database development
+* Production troubleshooting
+* Client communication
+* Technical coordination
+* Team mentoring and leadership
+
+I have also worked with international client environments, including experience in the **United Kingdom**. My previous work includes developing computer-vision-based HCI automation using **OpenCV and MediaPipe**, as well as automating manual processes through RPA.
+
+---
+
+## 🎓 Education
+
+**M.Tech – Computer Software Engineering**
+Birla Institute of Technology and Science, Pilani
+
+**BASc – Computer Science**
+Andhra University
+
+---
+
+## 🎯 Current Learning Focus
+
+I'm currently focused on moving deeper into the **AI + Automation** space.
+
+```text
+Python Automation
+       ↓
+RPA Automation
+       ↓
+Generative AI
+       ↓
+LLM Applications
+       ↓
+RAG
+       ↓
+AI Agents
+       ↓
+LangChain + LangGraph
+       ↓
+Agentic AI Systems
+```
+
+My goal is to combine my existing **enterprise automation and RPA experience** with modern **Generative AI and Agentic AI technologies** to build useful, production-oriented automation solutions.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with people working in:
+
+**AI • Generative AI • Agentic AI • RAG • LLMs • Python • RPA • Intelligent Automation**
+
+⭐ Feel free to explore my repositories and follow my journey as I continue building and learning in **AI + Automation**.
