@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anil Kumar
 
-### RPA Developer | Python Automation Developer | GenAI & AI Automation Learner
+### RPA Developer | GenAI & AI Automation | Python Automation Developer 
 
 I'm an automation-focused developer with experience across **Python, RPA, web development, databases, and enterprise application support**, currently expanding my expertise into **Generative AI and Agentic AI systems**.
 
@@ -11,13 +11,13 @@ I enjoy building practical automation solutions and exploring how **LLMs, RAG, a
 ## 🚀 What I'm Working On
 
 * 🐍 **Python Automation**
-* 🌐 **Selenium Automation**
-* 🤖 **RPA – Automation Anywhere 360**
 * 🦜 **LangChain**
 * 🕸️ **LangGraph**
 * 📚 **Retrieval-Augmented Generation (RAG)**
 * 🧠 **Generative AI & Agentic AI**
 * 🔗 **AI + Automation integrations**
+* 🌐 **Selenium Automation**
+* 🤖 **RPA – Automation Anywhere 360**
 * 🗄️ **Database-driven automation**
 * 🛠️ Building hands-on AI and automation projects
 
@@ -43,15 +43,6 @@ I enjoy building practical automation solutions and exploring how **LLMs, RAG, a
 * Agentic AI
 * Prompt Engineering
 
-### Web & Backend
-
-* Django
-* Django REST Framework
-* REST APIs
-* HTML
-* CSS
-* Bootstrap
-
 ### Databases
 
 * MySQL
@@ -61,19 +52,17 @@ I enjoy building practical automation solutions and exploring how **LLMs, RAG, a
 
 ### Other Technologies
 
-* Docker
+* Github
 * OpenCV
-* MediaPipe
 * AWS
 * Linux
 * Windows
 
 ### Enterprise Tools
-
+* Airflow
 * ServiceNow
 * Remedy
-* K2.NET
-* BizTalk Administration
+
 
 ---
 
